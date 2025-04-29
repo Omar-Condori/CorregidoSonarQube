@@ -1,0 +1,6 @@
+projectKey=CorregidoSonarQube
+serverUrl=http://localhost:9000
+serverVersion=25.4.0.105899
+dashboardUrl=http://localhost:9000/dashboard?id=CorregidoSonarQube
+ceTaskId=48676d46-5359-4352-851e-13bda92ad94a
+ceTaskUrl=http://localhost:9000/api/ce/task?id=48676d46-5359-4352-851e-13bda92ad94a
